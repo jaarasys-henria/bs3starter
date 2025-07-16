@@ -1,1 +1,1 @@
-This is a simple launcher script for Beer Smith 3 that works around some Linux environment related quirks that a brewer might stumbe upon.
+A simple launcher script for BeerSmith 3 that works around some Linux environment quirks a brewer might stumble upon.
